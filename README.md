@@ -78,3 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Usefull links
 
 [create a footer in react mui 5](https://frontendshape.com/post/create-a-footer-in-react-mui-5)
+[Material Icons](https://mui.com/material-ui/material-icons/?query=camera&selected=CameraAlt)
